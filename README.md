@@ -2,7 +2,7 @@
 
 <h2> Swiggy_Clone_Forntend</h2>
 
-Using React js , html,bootstreap  <br>
+Using React js , html, css,bootstreap  <br>
 
 
 <h2>LandingPage</h2>
