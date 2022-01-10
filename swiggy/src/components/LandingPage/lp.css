@@ -1,0 +1,88 @@
+.atc{
+    margin-top: 95px;
+}   
+   
+   
+   
+   .logo{
+       margin:30px 0px 0px 120px;
+       width:180px;
+       height: 60px;
+   }
+  .btn{
+       
+       margin:35px 0px 0px 0px;
+   }
+   .btn1{
+      text-decoration: none;
+      padding: 0;
+       border: none;
+        background: none;
+   }
+   .btn1:hover{
+   	color: orange;
+   }
+   
+   .btn2{
+       text-decoration: none!important;
+       margin-left:15px;
+       color: white;
+        padding: 8px 20px 8px 20px;
+       border: none;
+       background-color: black;
+   }
+
+   .rotaionpart{
+   	 margin:30px 0px 0px 120px;
+   }
+   .pra{
+   	font-size: 22px;
+   }
+       .sear{
+        width:600px;
+        margin-left: 120px;
+        display: table;
+    }
+    .in{
+   	padding: 17px 195px 17px 10px;
+   	background-color: transparent;
+    resize: none;
+    outline: none;
+    
+   }
+   .in:hover{
+   	border-color:#fc8019;
+   }
+   .spbt{
+   	 padding:19px 40px 19px 40px;
+   
+    font-family: "Arial";
+    border: 0;
+    
+   background-color:#fc8019;
+    font-size: 15px;
+   
+    color: white;
+   
+    
+   }
+   
+   .city_name{
+   	font-size:17px;
+   	font-weight: 700px;
+    color: black;
+    
+    
+   }
+   .ci{
+   	color: #999999;
+    padding: 5px;
+   }
+
+   .main_city{
+   	margin-left: 120px;
+   }
+   .side_img{
+   	width: 100%;
+   	height: 500px;
+   }

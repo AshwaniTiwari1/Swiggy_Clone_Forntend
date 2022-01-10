@@ -1,0 +1,169 @@
+.off {
+    margin-top: 70px;
+}
+
+.jumbotron {
+    background-color: rgb(21, 103, 109);
+}
+
+.col-sm-8 {
+    padding: 40px 0px 0px 125px;
+}
+
+._NpL9 {
+    font-size: 50px;
+    font-weight: 700;
+    color: #fff;
+    position: relative;
+}
+
+._NpL10 {
+    font-size: 20px;
+    color: #fff;
+}
+
+.per {
+    width: 220px;
+    height: 180px;
+}
+
+
+/*Navbar */
+
+.navbar2 {
+    padding-left: 70px;
+    text-align: center;
+    float: left;
+}
+
+.navbar2 {
+    /*padding-bottom: 20px;*/
+    text-transform: capitalize;
+}
+
+
+/** button group styles **/
+
+.btn-group2 {
+    border-radius: 1rem;
+    text-transform: capitalize;
+}
+
+.btn-group__item2 {
+    border: none;
+    /* min-width: 6rem; */
+    padding: 1.5rem 3rem;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    margin: 0;
+    font-size: 17px;
+    box-shadow: inset 0px 0px 0px -15px rebeccapurple;
+    transition: all 300ms ease-out;
+    text-transform: capitalize;
+}
+
+.btn-group__item2:last-child {
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+.btn-group__item2:first-child {
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+
+.btn-group__item2:hover,
+.btn-group__item2:focus {
+    color: rebeccapurple;
+    box-shadow: inset 0px -20px 0px -15px rebeccapurple;
+}
+
+.btn-group__item2:focus {
+    outline: none;
+}
+
+.btn-group__item2:after {
+    content: "✔️";
+    margin-left: 0.5rem;
+    display: inline-block;
+    color: rebeccapurple;
+    position: absolute;
+    transform: translatey(10px);
+    opacity: 0;
+    transition: all 200ms ease-out;
+}
+
+.btn-group__item--active:after {
+    opacity: 1;
+    transform: translatey(-2px);
+}
+
+.butoff1 {
+    padding: 120px 0px 0px 110px;
+    color: black;
+}
+
+
+/* Responsive media */
+
+@media only screen and (max-width: 600px) {
+    .col-sm-8 {
+        padding: 10px 0px 0px 20px;
+    }
+    ._NpL9 {
+        font-size: 25px;
+        font-weight: 700;
+        color: #fff;
+        position: relative;
+    }
+    ._NpL10 {
+        font-size: 15px;
+        color: #fff;
+    }
+    .per {
+        width: 180px;
+        height: 140px;
+    }
+    .navbar2 {
+        padding-left: 0px;
+        text-align: center;
+        float: left;
+    }
+    .butoff1 {
+        padding: 40px 0px 0px 30px;
+    }
+    .butoff1,
+    h1 {
+        font-size: 30px;
+    }
+    .butoff1,
+    p {
+        font-size: 15px;
+    }
+}
+
+
+/* help page */
+
+.help {
+    margin-top: 60px;
+}
+
+.helpheading {
+    padding: 50px 0px 0px 155px;
+    background-color: rgb(19, 106, 133);
+    height: 100vh;
+}
+
+.helpheading,
+h1 {
+    font-size: 40px;
+    font-weight: 250px;
+    color: #fff;
+}
+
+.helpheading,
+p {
+    font-size: 20px;
+    color: #fff;
+}
