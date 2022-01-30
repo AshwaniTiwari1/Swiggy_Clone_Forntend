@@ -1,4 +1,4 @@
-<h1>Geogo_Assignment_1</h1>
+<h1>Geogo_Assignment_6</h1>
 
 <h2> Swiggy_Clone_Forntend</h2>
 
